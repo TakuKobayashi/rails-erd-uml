@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "rails_erd_uml/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "rails_erd_uml"
+  spec.name          = "rails-erd-uml"
   spec.version       = RailsErdUml::VERSION
   spec.authors       = ["TakuKobayashi"]
   spec.email         = ["keep_slimbody@yahoo.co.jp"]

@@ -1,2 +1,2 @@
 rvm use 3.1.2
-rvm gemset create rails_erb_uml
+rvm gemset create rails-erb-uml
