@@ -1,0 +1,19 @@
+PATH
+  remote: .
+  specs:
+    rails_erd_uml (0.0.0)
+      thor
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    thor (1.2.2)
+
+PLATFORMS
+  x86_64-darwin-20
+
+DEPENDENCIES
+  rails_erd_uml!
+
+BUNDLED WITH
+   2.4.18
